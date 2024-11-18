@@ -1,0 +1,17 @@
+{
+  "name": "Mind GTC",
+  "symbol": "MGTC",
+  "description": "Mind GTC is a utility token for the Mind GTC platform.",
+  "image": "https://mindgtc28miliar.xyz/static/images/logo.png",
+  "external_url": "https://mindgtc.com",
+  "properties": {
+    "creators": ["mindgtc"],
+    "files": [{"uri": "https://mindgtc28miliar.xyz/static/images/logo.png", "type": "image/png"}]
+  },
+  "attributes": [
+    {
+      "trait_type": "Website",
+      "value": "https://mindgtc.com"
+    }
+  ]
+}
